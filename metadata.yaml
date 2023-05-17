@@ -1,0 +1,48 @@
+_repo: A-man-made-of-money_70481
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: https://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+creator:
+  author:
+    agent_name: Jerrold, Douglas William
+    aliases:
+    - Brownrigg, Henry
+    - Jerrold, D. W. (Douglas William)
+    - Whitefeather, Barabbas
+    birthdate: 1803
+    deathdate: 1857
+    gutenberg_agent_id: '1922'
+    url: http://www.gutenberg.org/2009/agents/1922
+    wikipedia: https://en.wikipedia.org/wiki/Douglas_William_Jerrold
+description: ''
+gutenberg_issued: '2023-04-06'
+identifiers:
+  gutenberg: '70481'
+  lccn: '42026581'
+language: en
+pgterms:marc904: https://archive.org/details/manmadeofmoney00jerr/page/n5/mode/2up
+pgterms:marc905: 20210212084116jerrold
+pgterms:marc906: '1849'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bPunch, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Wealth -- Fiction'
+- !lcsh 'Cost and standard of living -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: A man made of money
+url: http://www.gutenberg.org/ebooks/70481
