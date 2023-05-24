@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: https://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: archival
+  image_path: 70481-h/images/cover.jpg
 creator:
   author:
     agent_name: Jerrold, Douglas William
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1922
     wikipedia: https://en.wikipedia.org/wiki/Douglas_William_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70481#A-man-made-of-money
 gutenberg_issued: '2023-04-06'
 identifiers:
   gutenberg: '70481'
